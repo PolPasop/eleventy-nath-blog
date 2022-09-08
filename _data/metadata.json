@@ -1,11 +1,11 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Les bases du SEO",
+  "url": "https://nathalie.pinnemouche.be/",
+  "language": "fr",
+  "description": "Pour être lu, vu et trouvable via les moteurs de recherche.",
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Nathalie Kohn",
+    "email": "nathalie@pinnemouche.be",
+    "url": "https://nathalie.pinnemouche.be/"
   }
 }
