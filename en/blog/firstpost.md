@@ -1,26 +1,25 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: "Les bases du seo :  Des bases solides pour le
+  R&eacute;f&eacute;rencement et le Positionnement web : Tout pour la
+  cr&eacute;ation de votre site internet et son r&eacute;f&eacute;rencement"
+description: Le référencement et le positionnement sont deux critères bien
+  distincts. On peut dire qu'un site est référencé lorsqu'il est trouvable dans
+  un moteur de recherche avec votre nom de domaine. Tandis qu'on dira qu'il est
+  positionné en fonction de sa place dans les pages de Google ou Bing.
 date: 2018-05-01
 tags:
   - another tag
 layout: layouts/post.njk
+author: Nathalie Kohn
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# Référencement versus Positionnement quelle est la différence ?
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Être bien ***référencé*** c'est être **trouvable** lorsque, dans Google ou un autre moteur de recherche, on demande un nom de domaine bien précis. Il y a de grande chance que si votre hébergement est payé et que votre site est en ligne, il soit **disponible**.  
 
-## Section Header
+Exemple: mon nom de domaine lesbasesduseo.be est disponible lorsque vous en faites la requête dans Google. Sa position est complètement indépendante du fait qu'il soit trouvable. Vous voyez où je veux en venir ?
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Être bien ***positionné*** c'est être **visible** dans les premières pages de Google et consors. **Positionner** son site avec les mots clés importants pour notre activité **optimise** nos chances d'avoir un bon **référencement**.
 
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
-+	counter++;
-}
 
-// Test with a line break above this line.
-console.log('Test');
-```
+
+Tips: Pensez à être bien **positionné** sur les moteurs de recherche les plus connus (Google, Bing...) *ET* sur des mots clés qui ont du **sens** pour l'utilisateur.
