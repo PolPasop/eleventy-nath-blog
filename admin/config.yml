@@ -39,7 +39,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Meta:Description", name: "pagemetadata.description", widget: "string", pattern: ['.{1,200}', "Must have max 200 characters"] }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
       - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
         name: "eleventyNavigation"
         widget: "object"
