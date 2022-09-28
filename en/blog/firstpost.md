@@ -12,7 +12,7 @@ author: Nathalie Kohn
 ---
 Être bien ***référencé*** c'est être **trouvable** dans les pages de votre moteur de recherche.
 
-Être bien ***positionné*** c'est être **visible** dans les premières pages de celui-ci**.**
+Être bien ***positionné*** c'est être **visible** dans les premières pages de celui-ci.
 
 Je m'explique, lorsque vous ou un internaute demandez dans Google un nom de domaine bien précis il y a de forte chance que votre contenu soit disponible. À condition, bien entendu, que vous ayez payé votre hébergement et mis votre site en ligne.
 
