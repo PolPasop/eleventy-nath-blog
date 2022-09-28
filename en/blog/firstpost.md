@@ -1,5 +1,5 @@
 ---
-title: Référencement versus positionnement quelle différence ?
+title: "Référencement versus positionnement quelle différence ? "
 description: Le référencement et le positionnement sont deux critères bien
   distincts. On peut dire qu'un site est référencé lorsqu'il est trouvable dans
   un moteur de recherche avec votre nom de domaine. Tandis qu'on dira qu'il est
@@ -14,7 +14,7 @@ author: Nathalie Kohn
 
 Être bien ***positionné*** c'est être **visible** dans les premières pages de celui-ci.
 
-Je m'explique, lorsque vous ou un internaute demandez dans Google un nom de domaine bien précis il y a de forte chance que votre contenu soit disponible. À condition, bien entendu, que vous ayez payé votre hébergement et mis votre site en ligne.
+Je m'explique, lorsque vous ou un internaute demandez dans Google un nom de domaine bien précis il y a de forte chance que votre contenu soit disponible. À condition, bien entendu, que vous ayez payé votre hébergement et mis votre site en ligne. 
 
 Faites le test avec [lesbasesduseo.be](lesbasesduseo.be), vous verrez qu'il est accessible et donc trouvable dans Google lorsque vous en faites la requête. Par contre, sa position naturelle c'est à dire sans publicité payante, est complètement indépendante du fait qu'il soit existant. Vous me suivez ?
 
