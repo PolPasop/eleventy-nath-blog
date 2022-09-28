@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 author: Nathalie Kohn
 ---
-Être bien ***référencé*** c'est être **trouvable** dans les pages de votre moteur de recherche.
+Être bien ***référencé*** c'est être **trouvable** dans les pages de votre moteur de recherche. 
 
 Être bien ***positionné*** c'est être **visible** dans les premières pages de celui-ci.
 
