@@ -5,6 +5,7 @@ pagemetadata:
   title: Test Meta Title
   description: Test Meta desc
 templateClass: tmpl-post
+pagemetadata.description: ma meta
 eleventyNavigation:
   key: about
   order: 3
