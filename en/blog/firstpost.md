@@ -1,25 +1,31 @@
 ---
-title: "Les bases du seo :  Des bases solides pour le
-  R&eacute;f&eacute;rencement et le Positionnement web : Tout pour la
-  cr&eacute;ation de votre site internet et son r&eacute;f&eacute;rencement"
+title: Référencement versus positionnement quelle différence ?
 description: Le référencement et le positionnement sont deux critères bien
   distincts. On peut dire qu'un site est référencé lorsqu'il est trouvable dans
   un moteur de recherche avec votre nom de domaine. Tandis qu'on dira qu'il est
-  positionné en fonction de sa place dans les pages de Google ou Bing.
+  positionné en fonction de sa place dans les pages de Google.
 date: 2018-05-01
 tags:
-  - another tag
+  - Tags
 layout: layouts/post.njk
 author: Nathalie Kohn
 ---
-# Référencement versus Positionnement quelle est la différence ?
+Être bien ***référencé*** c'est être **trouvable** dans les pages de votre moteur de recherche.
 
-Être bien ***référencé*** c'est être **trouvable** lorsque, dans Google ou un autre moteur de recherche, on demande un nom de domaine bien précis. Il y a de grande chance que si votre hébergement est payé et que votre site est en ligne, il soit **disponible**.  
+Être bien ***positionné*** c'est être **visible** dans les premières pages de celui-ci**.**
 
-Exemple: mon nom de domaine lesbasesduseo.be est disponible lorsque vous en faites la requête dans Google. Sa position est complètement indépendante du fait qu'il soit trouvable. Vous voyez où je veux en venir ?
+Je m'explique, lorsque vous ou un internaute demandez dans Google un nom de domaine bien précis il y a de forte chance que votre contenu soit disponible. À condition, bien entendu, que vous ayez payé votre hébergement et mis votre site en ligne.
 
-Être bien ***positionné*** c'est être **visible** dans les premières pages de Google et consors. **Positionner** son site avec les mots clés importants pour notre activité **optimise** nos chances d'avoir un bon **référencement**.
+Faites le test avec [lesbasesduseo.be](lesbasesduseo.be), vous verrez qu'il est accessible et donc trouvable dans Google lorsque vous en faites la requête. Par contre, sa position naturelle c'est à dire sans publicité payante, est complètement indépendante du fait qu'il soit existant. Vous me suivez ?
 
+## Voici une analogie pour imager la différence entre référencement et positionnement
 
+Une indépendante tient une très grande librairie et reçoit chaque semaine les nouveautés en matière de romans, mangas et BD. Ces nouveaux livres sont tous trouvables dans son magasin. Cependant, elle doit les ranger sur les étagères en fonction de la notoriété de l'auteur, des prix décernés et de si une maison d'édition a payé un extra pour bien placer son auteur à la vue des clients. 
 
-Tips: Pensez à être bien **positionné** sur les moteurs de recherche les plus connus (Google, Bing...) *ET* sur des mots clés qui ont du **sens** pour l'utilisateur.
+Notre libraire va donc commencer à classer les auteurs sponsorisés en première ligne, ensuite les auteurs qui ont reçus des prix important sur les côtés, puis les auteurs avec de la notoriété en-dessous et pour finir, les  nombreux autres bons livres selon les tendances du moment des consommateurs. 
+
+Lorsque ses clients rentrent dans sa librairie, ils sont heureux de trouver rapidement les nouveautés parce que celles-ci sont bien positionnées.
+
+Être bien *positionné* en référencement naturel c'est être visible dans les premières pages de Google et consors sans annonces payantes. Positionner son site avec les mots clés importants pour notre activité et qui ont du sens pour les internautes optimise grandement nos chances d'avoir un bon référencement organique et ainsi d'être visible pour les utilisateurs.
+
+Merci à vous de m'avoir lu jusqu'ici. À bientôt pour de nouvelles bases du seo !
