@@ -6,9 +6,11 @@ pagemetadata:
   description: Test Meta desc
 templateClass: tmpl-post
 eleventyNavigation:
-  key: nav.about
+  key: about
   order: 3
 ---
 # {{ title }}
 
 I am a person that writes stuff.
+
+lol;k;

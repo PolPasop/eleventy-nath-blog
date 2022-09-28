@@ -14,15 +14,14 @@ local_backend: true
 collections:
   - label: "Blog"
     name: "blog"
-    folder: "en/blog"
+    folder: "fr/blog"
     create: true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta:Title", name: "pagemetadata.title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Meta:Description", name: "pagemetadata.description", widget: "string", pattern: ['.{,200}', "Must have max 200 characters"] }
+      - { label: "Meta:Description", name: "pagemetadata.description", widget: "string", pattern: ['.{1,200}', "Must have max 200 characters"] }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -34,13 +33,12 @@ collections:
         options: ["Tags", "created", "from", "config.yml"]
   - name: "pages"
     label: "Page"
-    folder: "en/pages"
+    folder: "fr/pages"
     create: false # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta:Title", name: "pagemetadata.title", widget: "string" }
-      - { label: "Meta:Description", name: "pagemetadata.description", widget: "string", pattern: ['.{,200}', "Must have max 200 characters"] }
+      - { label: "Meta:Description", name: "pagemetadata.description", widget: "string", pattern: ['.{1,200}', "Must have max 200 characters"] }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Permalink", name: "permalink", widget: "string" }
       - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
