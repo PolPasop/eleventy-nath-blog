@@ -4,7 +4,7 @@ description: Le référencement et le positionnement sont deux critères bien
   distincts. On peut dire qu'un site est référencé lorsqu'il est trouvable dans
   un moteur de recherche avec votre nom de domaine. Tandis qu'on dira qu'il est
   positionné en fonction de sa place dans les pages de Google.
-date: 2018-05-01
+date: 2022-09-28T11:20:30.472Z
 tags:
   - Tags
 layout: layouts/post.njk
