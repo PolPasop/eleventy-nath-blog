@@ -1,12 +1,16 @@
 ---
 layout: layouts/base.njk
-title: This is a test
+title: Contact
 templateClass: tmpl-post
+pagemetadata.description: Pour contacter les bases du seo - demande
+  d'informations sur nos accompagnements pour la création de votre site internet
+  référencé sur Google, prises de contact, devis.
 eleventyNavigation:
-  key: test
+  key: Contact
   order: 3
 ---
-# {{ title }}
+## Nathalie Kohn  
 
-I am a person that writes stuff.
-oijoio
+## info@lesbasesduseo.be
+
+## 0483 37 39 78
