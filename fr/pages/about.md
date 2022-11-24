@@ -17,6 +17,6 @@ eleventyNavigation:
 
 C'est en 2013 que Jessie Govart, Frontend web developper UI/UX fonde Pinnemouche Studio. Il crée des sites accessibles, responsives, orientés expérience utilisateurs depuis plus de 10 ans. 
 
-En 2016, le rejoins. Nous avons une vison commune, celle que nos clients puissent avoir des sites web vu et lu par un maximum d'internautes. Pour atteindre cet objectif, je me forme au référencement organique. Ainsi je peux analyser le contenu de votre site, vous conseiller pour que votre contenu soit utile, utilisable et optimisé pour les moteurs de recherche et vos utilisateurs.
+En 2016, le rejoins. Nous avons une vison commune, celle que nos clients puissent avoir des sites web vus et lus par un maximum d'internautes. Pour atteindre cet objectif, je me forme au référencement organique. Ainsi je peux analyser le contenu de votre site, vous conseiller pour que votre contenu soit utile, utilisable et optimisé pour les moteurs de recherche et vos utilisateurs.
 
 Parlez-moi de votre projet de site et je vous accompagnerai pour le réaliser !
