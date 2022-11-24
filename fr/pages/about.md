@@ -13,15 +13,11 @@ eleventyNavigation:
 ---
 # N﻿athalie Kohn, spécialiste en référencement organique pour votre site web.
 
-## Je suis Nathalie, créatrice du blog lesbasesduseo.be
+## Je me présente, Nathalie créatrice du blog lesbasesduseo.be
 
-Mais d'abord, commençons par le début de l'histoire en quelques dates...
+Passionnée par le référencement naturel, j'ai créé le blog pour aider un maximum de personne à comprendre les bases du seo. 
 
-C﻿'est en 1999 que je rencontre ma moitié J﻿essy Govart. Notre diplôme d'études secondaires en poche, nous travaillons durant 8 années dans la boulangerie familiale J-L Govart avant de bifurquer vers un autre chemin professionnel.
-
-En 2007, nous reprenons donc nos cartables et entamons un parcours d'études différents. Pour Jessie ce sera un bachelier de web designer UX/UI de l'HEAJ et pour moi, une certification du métier de secrétaire de Bruxelles Formation.
-
-Les années s'écoulent et nous nous formons respectivement à nos métiers dans des entreprises telles que Emakina, LBI pour Jesse et Engie, Randstad, Belga news Agency, Alpha Crédit ou encore Michael Page pour moi.
+ 
 
 E﻿n 2013, passionné par son métier de création de site web, Jessy fonde **Pinnemouche Studio**. Quelques années plus tard, en 2016 exactement, je le rejoins pour l'épauler dans son travail. 
 
