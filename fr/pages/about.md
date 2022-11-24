@@ -13,7 +13,7 @@ eleventyNavigation:
 ---
 # N﻿athalie Kohn, spécialiste en référencement organique pour votre site web.
 
-## P﻿résentation de Nathalie Kohn, créatrice du blog lesbasesduseo.be
+## Je suis Nathalie, créatrice du blog lesbasesduseo.be
 
 Mais d'abord, commençons par le début de l'histoire en quelques dates...
 
@@ -30,4 +30,4 @@ N﻿ous constatons alors qu'avec l'évolution des algorithmes des moteurs de rec
 C﻿omplètement mordue de cette nouvelle passion qui est le **référencement naturel**, j'entame ma nouvelle réorientation professionnelle en 2021. Je me forme avec les livres d'[Olivier Andrieu](https://www.abondance.com/olivier-andrieu), prends des formations SEO, Google Analytics 4 et Inbound Marketing chez Technofutur Tic. 
 
 M﻿a spécialité ? Optimiser votre site internet pour les moteurs de recherche et vos utilisateurs.
-Je vous accompagne vers la création d'un contenu utile et utilisable pour les internautes. Parce que le but d'un site, c'est d'être vu et lu. 
+Je vous accompagne vers la création d'un contenu utile et utilisable pour les internautes. Parce que le but d'un site, c'est d'être vu et lu.
