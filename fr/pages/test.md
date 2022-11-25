@@ -15,10 +15,12 @@ eleventyNavigation:
 
 ## 0483 37 39 78
 
-
-
-Vous avec un projet de site ? Vous ne savez pas par où commencer ? Vous avez un budget limité ? 
+### Vous avec un projet de site internet ? 
 
 Un pas après l'autre on avance vers la concrétisation de votre projet web tout en respectant vos ressources.
 
-Appelez-moi dès maintenant pour en discuter.
+### Vous projetez d'optimiser votre site internet pour une meilleure visibilité sur Google et consors ?
+
+J'analyse votre site et vous propose une feuille de route pour l'implémentation des actions à mettre en place pour la refonte de votre site.
+
+Appelez-moi dès maintenant pour en discuter 0483/37 39 78
