@@ -15,7 +15,7 @@ eleventyNavigation:
 
 ## Passionnée par le référencement naturel, j'ai créé ce blog pour aider le plus grand nombre de personne à comprendre les bases du seo.
 
-Bonjour, moi c'est Nathalie.
+Bonjour,
 
 Je vous souhaite la bienvenue sur mon blog ! L'objectif est de vous informer au mieux avec simplicité sur les bases du seo. 
 
