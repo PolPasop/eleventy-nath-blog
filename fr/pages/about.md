@@ -11,12 +11,16 @@ eleventyNavigation:
   key: Qui suis-je ?
   order: 2
 ---
-# N﻿athalie Kohn, spécialiste en référencement organique pour votre site web.
+# N﻿athalie Kohn, votre spécialiste en référencement organique pour votre site web.
 
-## Passionnée par le référencement naturel, j'ai créé le blog pour aider le plus grand nombre de personne à comprendre les bases du seo.
+## Passionnée par le référencement naturel, j'ai créé ce blog pour aider le plus grand nombre de personne à comprendre les bases du seo.
 
-C'est en 2016 que je rejoins Pinnemouche Studio avec comme objectif d'accompagner nos clients à avoir un site rapide, responsive, accessible et dont le contenu est utile et utilisable pour les internautes ainsi que compréhensible pour les moteurs de recherche. 
+Bonjour, moi c'est Nathalie.
 
-Pour atteindre cette mission, je me suis formée au référencement organique. Ainsi je peux analyser votre site web, vous conseiller pour que votre contenu soit optimisé pour Google et vos utilisateurs.
+Je vous souhaite la bienvenue sur mon blog ! L'objectif est de vous informer au mieux avec simplicité sur les bases du seo. 
 
-Parlez-moi de votre projet de site et je vous accompagnerai pour le réaliser !
+Pourquoi ? Pour vous permettre de mieux définir l'impact du référencement organique sur votre site internet.
+
+Comment ? Avec des mots simples et des exemples concrets.
+
+Pour qui ? Toutes personnes désireuses d'entreprendre avec visibilité sur le web.
