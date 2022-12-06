@@ -15,12 +15,16 @@ eleventyNavigation:
 
 ## 0483 37 39 78
 
-### Vous avec un projet de site internet ? 
+### Vous voulez un site web accessible et optimisé ?
 
-Un pas après l'autre on avance vers la concrétisation de votre projet web tout en respectant vos ressources.
+Vous êtes au bon endroit ! Contactez-moi pour faire le point sur votre projet web. 
 
-### Vous projetez d'optimiser votre site internet pour une meilleure visibilité sur Google et consors ?
+### Vous avez déjà un site et vous voulez l'optimiser ?
 
-J'analyse votre site et vous propose une feuille de route pour l'implémentation des actions à mettre en place pour la refonte de votre site.
+Allons-y ! 
+
+En premier lieu, je fais une analyse de votre site internet.
+
+Ensuite, je vous fais une liste les actions à mettre en place. Soit vous prenez les choses en mains soit vous me les confiez. 
 
 Appelez-moi dès maintenant pour en discuter 0483/37 39 78
