@@ -17,7 +17,7 @@ eleventyNavigation:
 
 Bonjour,
 
-Je vous souhaite la bienvenue sur mon blog ! L'objectif est de vous informer au mieux avec simplicité sur les bases du seo. 
+Je vous souhaite la bienvenue ! L'objectif de mon blog est de vous informer au mieux avec simplicité sur les bases du seo. 
 
 Pourquoi ? Pour vous permettre de mieux définir l'impact du référencement organique sur votre site internet.
 
