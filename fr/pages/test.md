@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## info@lesbasesduseo.be
 
-## 0483 37 39 78
+## +32 (0)483 37 39 78
 
 ### Vous voulez un site web accessible et optimisé ?
 
